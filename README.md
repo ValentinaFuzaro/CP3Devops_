@@ -9,7 +9,7 @@
 `docker build -t tdsaude95741 .`
 
 ## Grupo de recursos azure
-`az group create --name tdsaude95741 --location eastus`
+`az group create --name rg-tdsaude95741 --location eastus`
 
 ## ACR
 `az acr create --resource-group rg-tdsaude95741 --name tdsaude95741 --sku Basic`
