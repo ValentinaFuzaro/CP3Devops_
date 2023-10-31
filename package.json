@@ -2,7 +2,7 @@
   "name": "cp6-devops",
   "version": "1.0.0",
   "description": "",
-  "main": "mapp.js",
+  "main": "app.js",
   "type": "module",
   "scripts": {
     "start": "nodemon ./app.js"
